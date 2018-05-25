@@ -1,0 +1,2 @@
+Specificity and Sensitivity of combinations of various combinations of volume and time thresholds. As you go down along a curve, the time threshold increases. The sensitivity decreases and the specificity increases when we either increase the time threshold or decrease the volume threshold.
+

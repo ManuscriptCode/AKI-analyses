@@ -1,0 +1,2 @@
+Figure 3: 
+AUC for each of the 12 GEE models. The GEE model with length of urine output window = 16 hours has the best AUC (AUC = 0.781). The green dot represents the GEE model with the traditional length of urine output window of 6 hours (AUC = 0.738). 

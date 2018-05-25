@@ -1,0 +1,2 @@
+Figure B_2 caption:
+Figures B_2 display the point estimates, 95 % CIs, and p-values for each variable for each of the 12 GEE models. The green circles represent the p-values and the blue represent the lower CI value, upper CI value, and point estimate. The control variables used were (a) Age, (b) Diuretics (c) First creatinine measurement (d) LBM (e) Vasopressor use (f) Average MAP (g) Fluid balance 	
